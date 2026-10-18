@@ -6,7 +6,7 @@ I'm an MCA student and a BBA-CA graduate passionate about software development, 
 
 ## 🌐 Live Demo
 
-🔗 **Portfolio Website:** [View My Portfolio](PASTE_YOUR_GITHUB_PAGES_URL_HERE)
+🔗 **Portfolio Website:** [View My Portfolio](https://ppalak03.github.io/palakexe-portfolio/)
 
 ## ✨ Features
 
